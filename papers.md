@@ -1,61 +1,61 @@
 ## Repository of papers: 
 
-- ~**[Evaluating Verifiability in Generative Search Engines](https://arxiv.org/abs/2304.09848)** by Nelson F. Liu, Tianyi Zhang, Percy Liang~
-- ~**[On the Challenges of Using Black-Box APIs for Toxicity Evaluation in Research](https://arxiv.org/abs/2304.12397)** by Luiza Pozzobon, Beyza Ermis, Patrick Lewis, Sara Hooker~
-- ~**[Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767)** by Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson~
-- ~**[Stop Uploading Test Data in Plain Text: Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks](https://arxiv.org/abs/2305.10160)** by Alon Jacovi, Avi Caciularu, Omer Goldman, Yoav Goldberg~
-- ~**[Evaluating the Factual Consistency of Large Language Models Through Summarization](https://arxiv.org/abs/2211.08412)** by Derek Tam, Anisha Mascarenhas, Shiyue Zhang, Sarah Kwan, Mohit Bansal, Colin Raffel~
-- ~**[Moving beyond “algorithmic bias is a data problem”](https://www.sciencedirect.com/science/article/pii/S2666389921000611)** by Sara Hooker~
-- ~**[DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature](https://arxiv.org/abs/2301.11305)** by Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn~
-- ~**[Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)** by Alexander Wan, Eric Wallace, Sheng Shen, Dan Klein~
-- ~**[Auditing large language models: a three-layered approach](https://arxiv.org/abs/2302.08500)** by Jakob Mökander, Jonas Schuett, Hannah Rose Kirk, Luciano Floridi~
-- ~**[Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy](https://arxiv.org/abs/2210.17546)** by Daphne Ippolito, Florian Tramèr, Milad Nasr, Chiyuan Zhang, Matthew Jagielski, Katherine Lee, Christopher A. Choquette-Choo, Nicholas Carlini~
-- ~**[Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)** by Nicholas Carlini, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Florian Tramer, Chiyuan Zhang~
-- ~**[Stronger Together: on the Articulation of Ethical Charters, Legal Tools, and Technical Documentation in ML](https://arxiv.org/abs/2305.18615)** by Giada Pistilli, Carlos Munoz Ferrandis, Yacine Jernite, Margaret Mitchell~
-- ~**[On the Reliability of Watermarks for Large Language Models](https://arxiv.org/abs/2306.04634)** by John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein~
-- ~**[Debiased Fine-Tuning for Vision-language Models by Prompt Regularization](https://arxiv.org/abs/2301.12429)** by Beier Zhu, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang~
-- ~**[Grokking of Hierarchical Structure in Vanilla Transformers](https://arxiv.org/abs/2305.18741)** by Shikhar Murty, Pratyusha Sharma, Jacob Andreas, Christopher Manning~
-- ~**[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)** by Bo Peng et al.~
-- ~**[Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)** Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei~
-- ~**[Backpack Language Models](https://arxiv.org/abs/2305.16765)** by John Hewitt, John Thickstun, Christopher Manning, Percy Liang~
-- ~**[Organizational Governance of Emerging Technologies: AI Adoption in Healthcare](https://arxiv.org/abs/2304.13081)** by Jee Young Kim et al.~
-- ~**[The Gradient of Generative AI Release: Methods and Considerations](https://arxiv.org/abs/2302.04844)** by Irene Solaiman~
-- ~**[Predictability and Surprise in Large Generative Models](https://dl.acm.org/doi/abs/10.1145/3531146.3533229)** by Deep Ganguli et al.~
-- ~**[Towards Climate Awareness in NLP Research](https://aclanthology.org/2022.emnlp-main.159/)** by Daniel Hershcovich, Nicolas Webersinke, Mathias Kraus, Julia Bingler, Markus Leippold~
+- **[Evaluating Verifiability in Generative Search Engines](https://arxiv.org/abs/2304.09848)** by Nelson F. Liu, Tianyi Zhang, Percy Liang
+- **[On the Challenges of Using Black-Box APIs for Toxicity Evaluation in Research](https://arxiv.org/abs/2304.12397)** by Luiza Pozzobon, Beyza Ermis, Patrick Lewis, Sara Hooker
+- **[Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767)** by Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson
+- **[Stop Uploading Test Data in Plain Text: Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks](https://arxiv.org/abs/2305.10160)** by Alon Jacovi, Avi Caciularu, Omer Goldman, Yoav Goldberg
+- **[Evaluating the Factual Consistency of Large Language Models Through Summarization](https://arxiv.org/abs/2211.08412)** by Derek Tam, Anisha Mascarenhas, Shiyue Zhang, Sarah Kwan, Mohit Bansal, Colin Raffel
+- **[Moving beyond “algorithmic bias is a data problem”](https://www.sciencedirect.com/science/article/pii/S2666389921000611)** by Sara Hooker
+- **[DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature](https://arxiv.org/abs/2301.11305)** by Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn 
+-  **[Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)** by Alexander Wan, Eric Wallace, Sheng Shen, Dan Klein 
+-  **[Auditing large language models: a three-layered approach](https://arxiv.org/abs/2302.08500)** by Jakob Mökander, Jonas Schuett, Hannah Rose Kirk, Luciano Floridi 
+-  **[Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy](https://arxiv.org/abs/2210.17546)** by Daphne Ippolito, Florian Tramèr, Milad Nasr, Chiyuan Zhang, Matthew Jagielski, Katherine Lee, Christopher A. Choquette-Choo, Nicholas Carlini 
+-  **[Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)** by Nicholas Carlini, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Florian Tramer, Chiyuan Zhang 
+-  **[Stronger Together: on the Articulation of Ethical Charters, Legal Tools, and Technical Documentation in ML](https://arxiv.org/abs/2305.18615)** by Giada Pistilli, Carlos Munoz Ferrandis, Yacine Jernite, Margaret Mitchell 
+-  **[On the Reliability of Watermarks for Large Language Models](https://arxiv.org/abs/2306.04634)** by John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein 
+-  **[Debiased Fine-Tuning for Vision-language Models by Prompt Regularization](https://arxiv.org/abs/2301.12429)** by Beier Zhu, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang 
+-  **[Grokking of Hierarchical Structure in Vanilla Transformers](https://arxiv.org/abs/2305.18741)** by Shikhar Murty, Pratyusha Sharma, Jacob Andreas, Christopher Manning 
+-  **[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)** by Bo Peng et al. 
+-  **[Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)** Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei 
+-  **[Backpack Language Models](https://arxiv.org/abs/2305.16765)** by John Hewitt, John Thickstun, Christopher Manning, Percy Liang 
+-  **[Organizational Governance of Emerging Technologies: AI Adoption in Healthcare](https://arxiv.org/abs/2304.13081)** by Jee Young Kim et al. 
+-  **[The Gradient of Generative AI Release: Methods and Considerations](https://arxiv.org/abs/2302.04844)** by Irene Solaiman 
+-  **[Predictability and Surprise in Large Generative Models](https://dl.acm.org/doi/abs/10.1145/3531146.3533229)** by Deep Ganguli et al. 
+-  **[Towards Climate Awareness in NLP Research](https://aclanthology.org/2022.emnlp-main.159/)** by Daniel Hershcovich, Nicolas Webersinke, Mathias Kraus, Julia Bingler, Markus Leippold 
 <!--Extending Context Length-->  
-- ~**[LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486)** by Jiayu Ding, Shuming Ma, Li Dong, Xingxing Zhang, Shaohan Huang, Wenhui Wang, Nanning Zheng, Furu Wei~
-- ~**[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs//2306.15595)** by Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian~
-- ~**[Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172)** by Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang~
+-  **[LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486)** by Jiayu Ding, Shuming Ma, Li Dong, Xingxing Zhang, Shaohan Huang, Wenhui Wang, Nanning Zheng, Furu Wei 
+-  **[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs//2306.15595)** by Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian 
+-  **[Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172)** by Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang 
 <!--Scaling-->
-- ~**[No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models](https://arxiv.org/pdf/2307.06440.pdf)** by Jean Kaddour, Oscar Key, Piotr Nawrot, Pasquale Minervini, Matt J. Kusner1~
+-  **[No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models](https://arxiv.org/pdf/2307.06440.pdf)** by Jean Kaddour, Oscar Key, Piotr Nawrot, Pasquale Minervini, Matt J. Kusner1 
 <!--Decoding Innovations-->  
-- ~**[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)** by Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan~
-- ~**[Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding](https://arxiv.org/abs/2307.15337)** Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang~
+-  **[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)** by Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan 
+-  **[Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding](https://arxiv.org/abs/2307.15337)** Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang 
 <!--Crowdsurcing Annotations-->  
-- ~**[Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)** by Veniamin Veselovsky, Manoel Horta Ribeiro, Robert West~
-- ~**[LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs](https://arxiv.org/pdf/2307.10168.pdf)** by Tongshuang Wu et al.~
-- ~**[Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design](https://arxiv.org/abs/2304.00815)** by Valentina Pyatkin, Frances Yung, Merel C.J. Scholman, Reut Tsarfaty, Ido Dagan, Vera Demberg~
-- ~**[Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://openreview.net/forum?id=eYlLlvzngu)** by Gati Aher, Rosa I. Arriaga, Adam Tauman Kalai~
+-  **[Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)** by Veniamin Veselovsky, Manoel Horta Ribeiro, Robert West 
+-  **[LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs](https://arxiv.org/pdf/2307.10168.pdf)** by Tongshuang Wu et al. 
+-  **[Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design](https://arxiv.org/abs/2304.00815)** by Valentina Pyatkin, Frances Yung, Merel C.J. Scholman, Reut Tsarfaty, Ido Dagan, Vera Demberg 
+-  **[Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://openreview.net/forum?id=eYlLlvzngu)** by Gati Aher, Rosa I. Arriaga, Adam Tauman Kalai 
 <!--Privacy and Security in LLMs-->  
-- ~**[What Does it Mean for a Language Model to Preserve Privacy?](https://dl.acm.org/doi/pdf/10.1145/3531146.3534642)** by Hannah Brown, Katherine Lee, Fatemehsadat Mireshghallah, Reza Shokri, Florian Tramèr~
-- ~**[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)** by Andy Zou, Zifan Wang, J. Zico Kolter, Matt Fredrikson~
+-  **[What Does it Mean for a Language Model to Preserve Privacy?](https://dl.acm.org/doi/pdf/10.1145/3531146.3534642)** by Hannah Brown, Katherine Lee, Fatemehsadat Mireshghallah, Reza Shokri, Florian Tramèr 
+-  **[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)** by Andy Zou, Zifan Wang, J. Zico Kolter, Matt Fredrikson 
 <!--Transformer ML-->  
-- ~**[A Study on Transformer Configuration and Training Objective](https://arxiv.org/abs/2205.10505)** by Fuzhao Xue et al.~
-- ~**[Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979)** by Eran Malach~
-- ~**[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)** by Davoud Ataee Tarzanagh, Yingcong Li, Christos Thrampoulidis, Samet Oymak~
-- ~**[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://arxiv.org/abs/2303.06296)** by Shuangfei Zhai et al.~
+-  **[A Study on Transformer Configuration and Training Objective](https://arxiv.org/abs/2205.10505)** by Fuzhao Xue et al. 
+-  **[Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979)** by Eran Malach 
+-  **[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)** by Davoud Ataee Tarzanagh, Yingcong Li, Christos Thrampoulidis, Samet Oymak 
+-  **[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://arxiv.org/abs/2303.06296)** by Shuangfei Zhai et al. 
 <!--ICL and Emergent Abilities-->
-- ~**[Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)** by Rylan Schaeffer, Brando Miranda, Sanmi Koyejo~
-- ~**[Are Emergent Abilities in Large Language Models just In-Context Learning?](https://arxiv.org/abs/2309.01809)** by Sheng Lu, Irina Bigoulaeva, Rachneet Sachdeva, Harish Tayyar Madabushi, Iryna Gurevych~
+-  **[Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)** by Rylan Schaeffer, Brando Miranda, Sanmi Koyejo 
+-  **[Are Emergent Abilities in Large Language Models just In-Context Learning?](https://arxiv.org/abs/2309.01809)** by Sheng Lu, Irina Bigoulaeva, Rachneet Sachdeva, Harish Tayyar Madabushi, Iryna Gurevych 
 <!--Instruction Tuning and Aligning with Humans Preferences -->
-- ~**[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein~
-- ~**[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://arxiv.org/abs/2302.03202)** by Joel Jang et al.~
+-  **[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein 
+-  **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://arxiv.org/abs/2302.03202)** by Joel Jang et al. 
 <!--Jailbreaking and Defenses-->
-- ~**[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)** by Alexander Wei, Nika Haghtalab, Jacob Steinhardt~
-- ~**[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)** by Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi~
-- ~**[Baseline Defenses for Adversarial Attacks Against Aligned Language Models](https://arxiv.org/abs/2309.00614v2)** by Neel Jain et al.~
-- ~**[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** by Evan Hubinger et al.~
-- ~**[FLIRT: Feedback Loop In-context Red Teaming](https://arxiv.org/abs/2308.04265)** by Ninareh Mehrabi et al.~
+-  **[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)** by Alexander Wei, Nika Haghtalab, Jacob Steinhardt 
+-  **[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)** by Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi 
+-  **[Baseline Defenses for Adversarial Attacks Against Aligned Language Models](https://arxiv.org/abs/2309.00614v2)** by Neel Jain et al. 
+-  **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** by Evan Hubinger et al. 
+-  **[FLIRT: Feedback Loop In-context Red Teaming](https://arxiv.org/abs/2308.04265)** by Ninareh Mehrabi et al. 
 <!--Data Attribution and Model Editing-->  
 - **[TRAK: Attributing Model Behavior at Scale](https://openreview.net/forum?id=PBRArApxMh)** by Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, Aleksander Madry
 - **[Evaluating the Ripple Effects of Knowledge Editing in Language Models](https://arxiv.org/abs/2307.12976)** by Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva
@@ -103,7 +103,7 @@
 - **[Improving Gender Fairness of Pre-Trained Language Models without Catastrophic Forgetting](https://arxiv.org/abs/2110.05367)** by Zahra Fatemi, Chen Xing, Wenhao Liu, Caimming Xiong, Zahra Fatemi
 - **[Data Feedback Loops: Model-driven Amplification of Dataset Biases](https://openreview.net/forum?id=8JXMDw2xGa)** by Rohan Taori, Tatsunori Hashimoto
 - **[The Bias Amplification Paradox in Text-to-Image Generation](https://yanaiela.github.io/papers/bias-amplification-paradox.pdf)** by Preethi Seshadri, Sameer Singh, Yanai Elazar
-- **[FairPrism: Evaluating Fairness-Related Harms in Text Generation](http://users.umiacs.umd.edu/~hal/docs/daume23fairprism.pdf)** by Eve Fleisig et el.
+- **[FairPrism: Evaluating Fairness-Related Harms in Text Generation](http://users.umiacs.umd.edu/ hal/docs/daume23fairprism.pdf)** by Eve Fleisig et el.
 - **["I wouldn’t say offensive but...": Disability-Centered Perspectives on Large Language Models](https://research.google/pubs/pub52358/)** by Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Emily Denton, Robin Brewer
 - **[Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models](https://aclanthology.org/2023.acl-long.84.pdf)** by Myra Cheng, Esin Durmus, Dan Jurafsky
 - **[Whose Opinions Do Language Models Reflect?](https://openreview.net/forum?id=7IRybndMLU)** by Shibani Santurkar, Esin Durmus, Faisal Ladhak, Cinoo Lee, Percy Liang, Tatsunori Hashimoto
